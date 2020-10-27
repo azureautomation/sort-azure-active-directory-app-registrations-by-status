@@ -1,0 +1,20 @@
+{
+    "Author": "Farouk Friha",
+    "ContentSize": 6787,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/sort-azure-active-directory-app-registrations-by-status/master/Sort-AzureADApplications.ps1",
+    "DownloadCount": 430,
+    "Id": "Sort-Azure-Active-7c8bdcf8",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 152,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2019-8-6T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This PowerShell Runbook (compatible with PowerShell Core) connects to Azure and Azure Active Directory using an Automation Run As account, retrieves all app registrations within the tenant and sort them as Active or Expired.",
+    "Title": "Sort Azure Active Directory App Registrations by status",
+    "UpdatedDate": "2019-8-6T00:00:00",
+    "Url": "https://github.com/azureautomation/sort-azure-active-directory-app-registrations-by-status",
+    "UserTags": "Microsoft Azure, Powershell, Azure Automation"
+}
